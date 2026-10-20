@@ -22,5 +22,5 @@ Seorang pembangun baharu yang sedang meneroka dunia pengekodan dan GitHub. Saya 
 
 ### 📊 Statistik GitHub Saya
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrfanWafiy&show_icons=true&theme=radical" />
 </p>
